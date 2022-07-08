@@ -17,11 +17,12 @@ header p {
   display: inline-block;
 }
 .heroImg {
+
   background-color: #EBEBEB;
   padding: 10% 10%;
 }
 .content {
-  max-width: 300px;
+  max-width: 500px;
   margin: 0 auto;
   padding: 100px;
   background-color: #FFFFFF;
